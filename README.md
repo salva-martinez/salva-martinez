@@ -1,7 +1,7 @@
 <h1 align="center">Salva</h1>
 <h3 align="center">A passionate backend developer from Spain</h3>
 
-- 🌱 I’m currently learning **Dolibarr**
+- 🌱 I’m currently working on **Dolibarr**
 
 - 📫 How to reach me **salvamartinezjuan98@gmail.com**
 
